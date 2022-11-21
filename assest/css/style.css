@@ -4,10 +4,10 @@ body{
     background-repeat: no-repeat;
     min-height: 1oovh;
 }
-section.panel{
-    margin-top: 7.5rem;
+section.panel, section.panelinfo{
+    margin-top: 6rem;
 }
-    
+
 
 
 .letranegra{
@@ -64,3 +64,6 @@ color: rgb(0, 140, 255);
     section.about{
         margin-top: 10rem;
     }
+
+   
+    
